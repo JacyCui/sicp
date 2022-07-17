@@ -1,0 +1,33 @@
+[submodule "lectures"]
+	path = lectures
+	url = https://github.com/JacyCui/sicp-lectures.git
+[submodule "lab/lab00"]
+	path = lab/lab00
+	url = https://github.com/JacyCui/sicp-lab00.git
+[submodule "homework/hw01"]
+	path = homework/hw01
+	url = https://github.com/JacyCui/sicp-hw01.git
+[submodule "lab/lab01"]
+	path = lab/lab01
+	url = https://github.com/JacyCui/sicp-lab01.git
+[submodule "lab/lab02"]
+	path = lab/lab02
+	url = https://github.com/JacyCui/sicp-lab02.git
+[submodule "lab/lab03"]
+	path = lab/lab03
+	url = https://github.com/JacyCui/sicp-lab03.git
+[submodule "homework/hw02"]
+	path = homework/hw02
+	url = https://github.com/JacyCui/sicp-hw02.git
+[submodule "lab/lab04"]
+	path = lab/lab04
+	url = https://github.com/JacyCui/sicp-lab04.git
+[submodule "lab/lab05"]
+	path = lab/lab05
+	url = https://github.com/JacyCui/sicp-lab05.git
+[submodule "project/proj01"]
+	path = project/proj01
+	url = https://github.com/JacyCui/sicp-proj01.git
+[submodule "project/proj02"]
+	path = project/proj02
+	url = https://github.com/JacyCui/sicp-proj02.git
