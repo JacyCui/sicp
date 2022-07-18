@@ -31,3 +31,6 @@
 [submodule "project/proj02"]
 	path = project/proj02
 	url = https://github.com/JacyCui/sicp-proj02.git
+[submodule "homework/hw03"]
+	path = homework/hw03
+	url = https://github.com/JacyCui/sicp-hw03.git
