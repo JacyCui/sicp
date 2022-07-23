@@ -34,3 +34,6 @@
 [submodule "homework/hw03"]
 	path = homework/hw03
 	url = https://github.com/JacyCui/sicp-hw03.git
+[submodule "lab/lab06"]
+	path = lab/lab06
+	url = https://github.com/JacyCui/sicp-lab06.git
