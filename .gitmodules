@@ -73,3 +73,15 @@
 [submodule "project/proj04"]
 	path = project/proj04
 	url = https://github.com/JacyCui/sicp-proj04.git
+[submodule "lab/lab12"]
+	path = lab/lab12
+	url = https://github.com/JacyCui/sicp-lab12.git
+[submodule "lab/lab13"]
+	path = lab/lab13
+	url = https://github.com/JacyCui/sicp-lab13.git
+[submodule "lab/lab14"]
+	path = lab/lab14
+	url = https://github.com/JacyCui/sicp-lab14.git
+[submodule "homework/hw09"]
+	path = homework/hw09
+	url = https://github.com/JacyCui/sicp-hw09.git
